@@ -1,5 +1,7 @@
 # Blog API
 
+[![Blog API](screenshot-git.PNG)]()
+
 A web interface to manage blog posts via a REST API. This project allows you to create, edit, delete, and display posts by connecting to a Node.js/Express API.
 
 ## ✨ Features
